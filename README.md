@@ -1,5 +1,4 @@
-
-       Launcher Scripted by Vector09
+Launcher Scripted by Vector09
 
     How to Install:
 1. Unzip
