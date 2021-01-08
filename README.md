@@ -6,11 +6,11 @@ and SA:MP.
 
     How to Install:
 1. Unzip
-2. Drag and Drop the batch file into the root <i></i>GTA San Andreas root folder.
+2. Drag and Drop the batch file into the root GTA San Andreas root folder.
 
     Requirements:
-San Andreas needs to be called <b></b>gta_sa.exe
-SA:MP needs to be called <b></b>samp.exe
+San Andreas needs to be called gta_sa.exe
+SA:MP needs to be called samp.exe
 
-    <i></i><b></b>Thank you for downloading!
+    Thank you for downloading!
 
