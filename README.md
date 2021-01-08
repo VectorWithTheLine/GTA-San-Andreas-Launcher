@@ -1,6 +1,6 @@
 
        Launcher Scripted by Vector09
- --===========================--
+
     From this launcher you can play both GTA SA
 and SA:MP.
 
